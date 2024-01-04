@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.App button{
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.App button:hover{
+  background-color: #f44336;
+}
